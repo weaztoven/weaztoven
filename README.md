@@ -1,6 +1,6 @@
 # Hi, ich bin weaztoven 👋
 
-Ich bin 19 Jahre alt, entwickle Software und interessiere mich für sauberen Code, Backend-Architektur und nützliche Tools.[cite: 1]
+Ich bin 19 Jahre alt, entwickle Software und interessiere mich für sauberen Code, Backend-Architektur und nützliche Tools.
 
 ---
 
@@ -16,13 +16,13 @@ Ich bin 19 Jahre alt, entwickle Software und interessiere mich für sauberen Cod
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-* **Sprachen:** Python, JavaScript, TypeScript, Java, C++, C#[cite: 1]
-* **Tools & Umgebung:** Git, Linux, VS Code[cite: 1]
-* **Lerne aktuell:** Go, Systemnahe Programmierung[cite: 1]
+* **Sprachen:** Python, JavaScript, TypeScript, Java, C++, C#
+* **Tools & Umgebung:** Git, Linux, VS Code
+* **Lerne aktuell:** Go, Systemnahe Programmierung
 
 ---
 
 ### Kontakt
 
-* 📧 E-Mail: [weaztoven@proton.me](mailto:weaztoven@proton.me)[cite: 1]
-* 💬 Discord: `weaztoven`[cite: 2]
+* 📧 E-Mail: [weaztoven@proton.me](mailto:weaztoven@proton.me)
+* 💬 Discord: `weaztoven`
