@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, ich bin weaztoven
 
-<!--
-**weaztoven/weaztoven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich bin 19 Jahre alt, entwickele Software und interessiere mich für sauberen Code, Backend-Architektur und nützliche Tools.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+- **Sprachen:** Python, JavaScript, TypeScript, Java, C++, C#
+- **Tools & Umgebung:** Git, Linux, VS Code
+- **Lerne aktuell:** Go, Systemnahe Programmierung
+
+---
+
+### Kontakt
+
+Du erreichst mich am besten über weaztoven@proton.me
