@@ -16,7 +16,7 @@ Ich bin 19 Jahre alt, entwickle Software und interessiere mich für sauberen Cod
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-* **Sprachen:** Python, JavaScript, TypeScript, Java, C++, C#
+* **Sprachen:** Python, JavaScript, TypeScript, Java, C++, C#, Rust
 * **Tools & Umgebung:** Git, Linux, VS Code
 * **Lerne aktuell:** Go, Systemnahe Programmierung
 
