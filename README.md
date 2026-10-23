@@ -9,7 +9,7 @@ Software developer passionate about **Rust**, backend architecture, CLI/TUI tool
 * ⚡ **[git-pulse](https://github.com/weaztoven/git-pulse)** – Fast, keyboard-driven GitHub TUI tracker in Rust & Ratatui with live in-memory filtering, ETag optimization, and custom hex themes.  
   [![Crates.io](https://img.shields.io/crates/v/git-pulse.svg)](https://crates.io/crates/git-pulse) [![Downloads](https://img.shields.io/crates/d/git-pulse.svg)](https://crates.io/crates/git-pulse)
 * 🧹 **[cleaner-cli](https://github.com/weaztoven/cleaner-cli)** – Efficient open-source CLI utility built in Rust for fast system cleanup and directory optimization.  
-  [![Crates.io](https://img.shields.io/crates/v/cleaner-cli.svg)](https://crates.io/crates/cleaner-cli)
+  [![Crates.io](https://img.shields.io/crates/v/cleaner-cli.svg)](https://crates.io/crates/cleaner-cli) [![Downloads](https://img.shields.io/crates/d/cleaner-cli.svg?style=flat-square)](https://crates.io/crates/cleaner-cli)
 
 ---
 
