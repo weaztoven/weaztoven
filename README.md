@@ -37,7 +37,7 @@ Software developer passionate about **Rust**, backend architecture, CLI/TUI tool
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=weaztoven&show_icons=true&theme=dracula&count_private=true" alt="weaztoven GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=weaztoven&show_icons=true&theme=dracula&count_private=true" alt="weaztoven GitHub Stats" />
 </p>
 
 ---
