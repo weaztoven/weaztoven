@@ -1,11 +1,13 @@
 # Hi, I'm weaz 👋
 
-Software developer passionate about **Rust**, backend architecture, CLI/TUI tools, and clean code.
+Software developer passionate about **Rust**, **Go**, backend architecture, CLI/TUI tools, and clean code.
 
 ---
 
 ### 🚀 Featured Projects
 
+* 🐻 **[loadbear](https://github.com/weaztoven/loadbear)** – A small, friendly load balancer written in Go. Round-robin, weighted, least-connections and IP-hash strategies, active health checks, circuit breaker, rate limiting and Prometheus metrics.  
+  [![CI](https://github.com/weaztoven/loadbear/actions/workflows/ci.yml/badge.svg)](https://github.com/weaztoven/loadbear/actions/workflows/ci.yml) [![Release](https://img.shields.io/github/v/release/weaztoven/loadbear)](https://github.com/weaztoven/loadbear/releases) [![License](https://img.shields.io/github/license/weaztoven/loadbear)](https://github.com/weaztoven/loadbear/blob/main/LICENSE)
 * ⚡ **[git-pulse](https://github.com/weaztoven/git-pulse)** – Fast, keyboard-driven GitHub TUI tracker in Rust & Ratatui with live in-memory filtering, ETag optimization, and custom hex themes.  
   [![Crates.io](https://img.shields.io/crates/v/git-pulse.svg)](https://crates.io/crates/git-pulse) [![Downloads](https://img.shields.io/crates/d/git-pulse.svg)](https://crates.io/crates/git-pulse)
 * 🧹 **[cleaner-cli](https://github.com/weaztoven/cleaner-cli)** – Efficient open-source CLI utility built in Rust for fast system cleanup and directory optimization.  
@@ -17,6 +19,7 @@ Software developer passionate about **Rust**, backend architecture, CLI/TUI tool
 
 **Languages:**  
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -26,11 +29,12 @@ Software developer passionate about **Rust**, backend architecture, CLI/TUI tool
 
 **Tools & Environment:**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 **Currently Exploring:**  
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) System-level Programming & Low-level Systems Architecture
+Networking & concurrency in Go, system-level programming and low-level systems architecture
 
 ---
 
